@@ -1,0 +1,42 @@
+body{
+    background-color: #bbb3cb;
+    color: #fff9b8;
+    margin-left: 50px;
+}
+
+h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f0eed9;
+}
+
+img{
+    height: 300px;
+	width:auto;
+    border: 5px solid #4d2e8a;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 20px;
+	margin-left: 10%
+}
+
+h2{
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff9b8;
+
+}
+
+p{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #7b6d9e;
+}
+
+h3{
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff9b8;
+}
+
+
